@@ -19,16 +19,19 @@ Hi! I'm **BOUHREM**, a passionate full-stack developer focused on building moder
 - Responsive Design
 
 **Backend:**
-- Java
-- [Add your backend tech]
+- Java, Python, C++
+- Node.js, Express, Spring Boot, PHP
+- SQL, NoSQL (MongoDB)
+- Power BI, Talend, SSIS
 
 **Mobile:**
-- React Native / Flutter [if applicable]
+- React Native
 
 **Tools & Platforms:**
 - Git & GitHub
-- VS Code
-- Node.js
+- AWS, Azure, Google Cloud
+- Power BI, Talend, SSIS
+- Wireshark, Ping, Traceroute
 
 ## 📌 Featured Projects
 
@@ -58,10 +61,9 @@ Cross-platform mobile application showcasing modern mobile development practices
 
 ## 📬 Get In Touch
 
-- 📧 **Email:** [your.email@example.com]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 🌐 **Portfolio:** [Your Portfolio Website]
-- 📍 **Location:** [Your Location]
+- 📧 **Email:** bouhrem4@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aziz-bouhrem-935345198
+- 📍 **Location:** Manouba
 
 ## 💡 Fun Fact
 
